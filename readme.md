@@ -22,7 +22,7 @@ sns.countplot(x='out1', data=df)
 plt.subplots(figsize=(9 , 9))
 sns.heatmap(df.corr() , annot= True)
 ```
-![showplt](https://raw.githubusercontent.com/LeilaMohseni/car_co2_ai/master/img/2.jpg)
+![showplt](https://raw.githubusercontent.com/LeilaMohseni/car_co2_ai/master/img/2.png)
 
 ```python
 plt.show()
